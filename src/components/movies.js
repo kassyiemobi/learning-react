@@ -15,7 +15,7 @@ class Movies extends Component {
     ) : (
       <div className="container">
         <h3>Showing {this.state.movies.length} Movies in the Database</h3>
-        <table class="table">
+        <table className="table">
           <thead>
             <tr>
               <th scope="col">Title</th>

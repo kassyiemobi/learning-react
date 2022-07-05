@@ -30,6 +30,9 @@ function NavBar() {
             <NavLink className="nav-item nav-link" to="/movieForm">
               MovieForm
             </NavLink>
+            <NavLink className="nav-item nav-link" to="/login">
+              Login
+            </NavLink>
           </div>
         </div>
       </nav>
